@@ -39,6 +39,23 @@ To see a list of available Linux distributions available for download through th
 
 If you want a detailed guide, go to https://learn.microsoft.com/en-us/windows/wsl/install
 
+Now you have WSL successfully running on your computer!
+
+## 2. Dual Boot 
+
+The process for this depends on the distro that you want. However, as a reference, the guide for installing Ubuntu is given:
+
+- Download the ISO file for Ubuntu: https://ubuntu.com/download
+- Create a bootable USB using tools like Rufus.
+
+## Virtual Machine
+
+- Simply install any virtualization software such as VirtualBox or VMWare.
+- Setup the VM using the ISO file of the Linux Distro.
+
+
+
+
 
 
 
