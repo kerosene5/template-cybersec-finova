@@ -56,7 +56,7 @@ The process for this depends on the distro that you want. However, as a referenc
 After that, you should see a screen like this:
 ![try-or-install-ubuntu](https://github.com/user-attachments/assets/5e9cbdef-0840-432e-8e17-1c57309f95ff)
 
-Choose the install option, and now you are setup with Ubuntu!
+Choose the `Install Ubuntu` option, and now you are setup with Ubuntu!
 
 
 ## 3. Virtual Machine
