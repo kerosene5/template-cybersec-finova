@@ -39,7 +39,7 @@ If you would like to install a different distro, run: `wsl --install -d <Distrib
 
 To see a list of available Linux distributions available for download through the online store, enter: `wsl --list --online`.
 
-If you want an in-depth guide, go to https://learn.microsoft.com/en-us/windows/wsl/install
+If you want an in-depth guide, go to https://learn.microsoft.com/en-us/windows/wsl/install.
 
 Now you have WSL successfully running on your computer!
 
