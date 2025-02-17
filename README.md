@@ -48,10 +48,27 @@ The process for this depends on the distro that you want. However, as a referenc
 - Download the ISO file for Ubuntu: https://ubuntu.com/download
 - Create a bootable USB using tools like Rufus.
 
-## Virtual Machine
+## 3. Virtual Machine
 
 - Simply install any virtualization software such as VirtualBox or VMWare.
 - Setup the VM using the ISO file of the Linux Distro.
+
+## Submission
+
+After successfully installing Linux, create a write-up in your repository's `README.md` file using the following format:
+
+```
+# Proof of Completion
+
+## Name:
+(Your full name)
+
+## Registration Number:
+(Your registration number)
+
+## Screenshot of Output:
+(Attach the screenshot of your Linux terminal)
+```
 
 
 
