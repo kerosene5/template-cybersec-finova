@@ -7,6 +7,8 @@ For your first task, you will:
 
 - Install Linux.
 
+If you already have Linux installed, go to the __Submission__ section
+
 ## Step 1: Pick
 There are 3 ways to install Linux:
 
@@ -75,9 +77,16 @@ After successfully installing a Linux distro, create a write-up in your reposito
 ## Registration Number:
 (Your registration number)
 
-## Screenshot of Output:
+## Screenshot of Terminal:
 (Attach the screenshot of your Linux terminal)
 ```
+
+Good luck! Feel free to reach out in the domain-wise WhatsApp group and ask me questions! You can even discuss about the task amongst your peers there.
+
+
+
+
+
 
 
 
