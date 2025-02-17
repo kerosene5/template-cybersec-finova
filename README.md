@@ -50,7 +50,7 @@ The process for this depends on the distro that you want. However, as a referenc
 - Download the `ISO` file for Ubuntu: https://ubuntu.com/download
 - Create a bootable USB drive using tools like `Rufus`.
 - Be sure to backup your data incase something goes wrong! (it usually does the first time)
-- Plug the USB flashdrive and restart your computer. Enter the BIOS/UEFI settings (press `F12`, `F2` or `Delete` key). 
+- Plug the USB flashdrive and restart your computer. Enter the BIOS/UEFI settings (press `F12`, `F2` or `F10` key). 
 - Change the boot order to prioritize USB.
 
 After that, you should see a screen like this:
