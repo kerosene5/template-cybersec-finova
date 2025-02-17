@@ -23,7 +23,7 @@ Running Linux on a virtual machine is good for testing out different distros, bu
 Pick the option that suits you the most.
   
 
-## 1. Install Windows Subsystem for Linux (WSL) ##
+## 1. Install Windows Subsystem for Linux (WSL) [Recommended] ##
 
 - Open PowerShell as administrator.
 
@@ -45,8 +45,17 @@ Now you have WSL successfully running on your computer!
 
 The process for this depends on the distro that you want. However, as a reference, the guide for installing Ubuntu is given:
 
-- Download the ISO file for Ubuntu: https://ubuntu.com/download
-- Create a bootable USB using tools like Rufus.
+- Download the `ISO` file for Ubuntu: https://ubuntu.com/download
+- Create a bootable USB drive using tools like `Rufus`.
+- Be sure to backup your data incase something goes wrong! (it usually does the first time)
+- Plug the USB flashdrive and restart your computer. Enter the BIOS/UEFI settings (press `F12`, `F2` or `Delete` key). 
+- Change the boot order to prioritize USB.
+
+After that, you should see a screen like this:
+![try-or-install-ubuntu](https://github.com/user-attachments/assets/5e9cbdef-0840-432e-8e17-1c57309f95ff)
+
+Choose the install option, and now you are setup with Ubuntu!
+
 
 ## 3. Virtual Machine
 
@@ -55,7 +64,7 @@ The process for this depends on the distro that you want. However, as a referenc
 
 ## Submission
 
-After successfully installing Linux, create a write-up in your repository's `README.md` file using the following format:
+After successfully installing a Linux distro, create a write-up in your repository's `README.md` file using the following format:
 
 ```
 # Proof of Completion
