@@ -25,6 +25,8 @@ If you want to completely delve into Linux and use it extensively, `Dual Boot` i
 
 The third option, using a `Virtual Machine`, is something I recommend you do because it allows you to try out multiple linux distros. Also, the __VM__ makes it very easy to undo any mistakes. And trust me, you will make a lot of mistakes!
 
+For people with Apple Silicon Macs (M1, M2, M3), `Virtual Machine` is the recommended approach due to hardware compatibility issues with native installation.
+
 __Pick the option that interests you the most!__
   
 
@@ -83,6 +85,25 @@ For a more in-depth guide, go to: https://help.ubuntu.com/community/WindowsDualB
 ## 3. Virtual Machine
 
 - Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) from the official website.
+- Download the __ISO file__ for Ubuntu: https://ubuntu.com/download
+- Open __VirtualBox__ and click `New` to create a virtual machine.
+- Name your VM, select `Linux` as type, and choose the appropriate version (e.g., Ubuntu)
+- Allocate memory (RAM) - at least `1024 MB (1GB)` recommended.
+- Create a virtual hard disk __(select "Dynamically allocated")__
+- Set the storage size (`minimum 10GB recommended`)
+- Select your new VM and __click `Start`__
+- When prompted, select your downloaded Linux ISO file
+- Follow the Linux installation process, selecting "Erase disk and install" (this only affects the virtual disk)
+- Create your `user account` and complete installation.
+- Restart the VM to start using Linux!
+
+After your setup, you should get an output like so:
+
+<img width="600" alt="{68D5CE10-9761-4B83-B54B-34563F61EC2E}" src="https://github.com/user-attachments/assets/7af76bd8-8cc9-4c5f-be6b-ec5771aa47d4" />
+
+for a more in-depth guide, check this out: https://www.geeksforgeeks.org/how-to-install-ubuntu-on-virtualbox/
+
+Congrats, you successfully installed Ubuntu on a Virtual Machine!
 
 ## Submission
 
@@ -101,7 +122,8 @@ After successfully installing a Linux distro, create a write-up in your reposito
 (Attach the screenshot of your Linux terminal)
 ```
 
-Good luck! Feel free to reach out in the domain-wise WhatsApp group and ask me questions! You can even discuss about the task amongst your peers there.
+Good Luck! If you have any questions, or you got stuck along the way, feel free to ask me questions in the WhatsApp groupchat! You can even discuss about your tasks there.
+
 
 
 
