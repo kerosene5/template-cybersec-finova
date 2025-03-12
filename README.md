@@ -12,7 +12,7 @@ The term `Linux` can refer to both the _kernel_ itself (the core component of th
 
 If you already have Linux installed, go to the __Submission__ section.
 
-## Step 1: Pick
+## Step 1: Choose
 There are __3 ways__ to install Linux:
 
 - Install Windows Subsystem for Linux (WSL)
