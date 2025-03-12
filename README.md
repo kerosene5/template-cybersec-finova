@@ -66,14 +66,18 @@ __Now you have WSL successfully running on your computer!__
 - Download the __ISO file__ for Ubuntu: https://ubuntu.com/download
 - Open __VirtualBox__ and click `New` to create a virtual machine.
 - Name your VM, select `Linux` as type, and choose the appropriate version (e.g., Ubuntu)
-- Allocate memory (RAM) - at least `1024 MB (1GB)` recommended.
+- __Allocate memory (RAM)__ - at least `2048 MB (1GB)` recommended.
+- Select the type of Hard disk. Using __VDI type__ is recommended. 
 - Create a virtual hard disk __(select "Dynamically allocated")__
 - Set the storage size (`minimum 10GB recommended`)
 - Select your new VM and __click `Start`__
-- When prompted, select your downloaded Linux ISO file
-- Follow the Linux installation process, selecting "Erase disk and install" (this only affects the virtual disk)
+- When prompted, __select your downloaded Linux ISO file.__
+- __Follow the Linux installation process, selecting "Erase disk and install" (this only affects the virtual disk)__
+
+![Ubuntu-VirtualBox-Installation-13](https://github.com/user-attachments/assets/5faa3c9b-5a83-4fed-96e9-b86c5874248d)
+
 - Create your `user account` and complete installation.
-- Restart the VM to start using Linux!
+- __Restart the VM to start using Linux!__
 
 After your setup, you should get an output like so:
 
@@ -116,6 +120,7 @@ __Linux Setup:__
 - __Boot from the USB.__
   
 You should see a screen like this:
+
 ![try-or-install-ubuntu](https://github.com/user-attachments/assets/5e9cbdef-0840-432e-8e17-1c57309f95ff)
 
 - __Select "Try or Install Ubuntu"__.
@@ -140,16 +145,3 @@ After successfully installing a Linux distro, create a write-up in your reposito
 ```
 
 Good Luck! If you have any questions, or you got stuck along the way, feel free to ask me questions in the WhatsApp groupchat! You can even discuss about your tasks there.
-
-
-
-
-
-
-
-
-
-
-
-
-
