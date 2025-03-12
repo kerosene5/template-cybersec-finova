@@ -111,10 +111,11 @@ __Installation:__
 __Linux Setup:__
 - __Boot from the USB.__
   
-After that, you should see a screen like this:
+You should see a screen like this:
 ![try-or-install-ubuntu](https://github.com/user-attachments/assets/5e9cbdef-0840-432e-8e17-1c57309f95ff)
 
 - __Select "Try or Install Ubuntu"__.
+- After this, you will be taken to Ubuntu Setup and required to partition your disk. Go to https://www.geeksforgeeks.org/setup-dual-boot-with-linux-and-windows/ for an in-depth guide, so that you dont make a mistake.
 
 
 ## Submission
