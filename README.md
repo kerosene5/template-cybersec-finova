@@ -215,7 +215,9 @@ __For the courses, simply post the completion certificate/badge screen shot you 
 
 🕒 20th July 2025, 11:59 PM
 
-__Don't hesitate to reach out in DMs or in the group if you're stuck or have a doubt!__
+Don't hesitate to reach out in DMs or in the group if you're stuck or have a doubt!
+
+I would also like to thank you for attempting this task! It is my pleasure to be able to guide so many students on their path to cybersec!
 
 __Good luck and I hope you have a great summer break!__
 
