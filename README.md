@@ -116,13 +116,109 @@ __And thats all for Option 1!__
 
 ---
 
-## Option 2: CISO 
+## 🔵 Option 2: CISO
+
+So, you want to learn how big corporations handle security? Well, most of their focus is on __defenses__ i.e __blue teaming.__
+
+First of all, __Cyber Security__ on the __*industry*__ level is majorly categorized into __4__ fields (as of now).
+                                                              
+<img width="880" alt="{04E0CE2F-7813-4EF2-8D32-93C936B5FDCE}" src="https://github.com/user-attachments/assets/8493fd44-df80-4c1b-93d4-bf5fc39792a2" />
 
 
+---
+<img width="739" alt="{B095119A-6709-4E33-BA96-0B0D078B1AC6}" src="https://github.com/user-attachments/assets/93e22f6a-56ca-43e4-a6c5-2efd0603bc2b" />
+
+
+__"Why is the first thing networks?"__ you may ask. 
+
+Well, that is for one simple reason - the whole of IT infrastructure (and thus cybersecurity) is built upon one thing - __networks__.
+
+So, if you don't have __atleast__ a basic understanding of networks - it will be __very hard__ for you to progress forward.
+
+1. __Go__ to [this](https://app.letsdefend.io/training/lessons/network-fundamentals) link. Make an Account.
+2. __Complete__ the __Network Fundamentals__ course.
+
+If you'd like to go more in-depth into __Networking__, please do watch [this](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ) playlist. It covers almost everything in networking, right from the scratch!
+
+Also, if you are pursuing a career in cybersec, you may want to look into getting a __certification__ like the __CompTIA Network+__ or the __CCNA (Cisco Certified Network Associate).__  
+
+Certifications can be very __valuable__, provided they are __reputed.__
+
+
+
+---
+<img width="740" alt="{2BC4B66A-9112-405B-AA30-16B847DE98CB}" src="https://github.com/user-attachments/assets/b3504f16-ac66-48db-b87e-90eae18cd36f" />
+
+An organization's security is usually handled by __SOCs - Security Operation Centers__
+
+If you want to work in an organization's __SOC Team__, usually you would join in an entry level position such as a __L1 SOC Analyst.__
+
+1. __Go__ to [this](https://app.letsdefend.io/training/lessons/soc-fundamentals) link.
+2. __Complete__ the __SOC Fundamentals__ course.
+
+You should be familiar with all the basic terminology and tools used in SOCs after finishing this course!
+
+---
+
+### Challenges
+
+A few blue teaming exercises to put theory to practice:
+1. __Click__ on [this](https://blueteamlabs.online/home/challenges) link. Make an Account.
+2. __Complete__ the __challenges__ given.
+
+- __Easy__:
+   - The Report I, II (Read up on __*MITRE ATT&CK Framework*__)
+   - Follina
+   - ThePackage (Read up on __*Google Dorking*__)
+   - Phishing Analysis 1 & 2
+   - Malware Analysis - Ransomware Script
+   - Powershell Analysis - Keylogger
+   - ILOVEYOU
  
+ - __Medium:__
+   - Bruteforce
+   - Suspicious USB Stick
+   - Squid Game
+   - Network Analysis - Ransomware
+   - Network Analysis - Malware Compromise
+   - Injection Series (1 - 4)
+   - Paranoid
+
+- __Hard__
+   - Secure Shell
+   - D-Crypt
+
+__And thats all for Option 2!__
+
+---
+
+## Submissions
+
+__Create write-ups (in this repo) for each challenge you attempted, showing the flag & how you found it.__
+
+__If you weren't able to get the flag, that's fine! However, mention how you tried to solve the challenge.__
+
+Example: `Need For Speed.md`
+
+```
+Flag: picoctf{flag}
+
+Solution: ...
+
+```
+
+__For the courses, simply post the completion certificate/badge screen shot you got.__
+
+---
+
+## Deadline
+
+🕒 20th July 2025, 11:59 PM
+
+__Don't hesitate to reach out in DMs or in the group if you're stuck or have a doubt!__
+
+__Good luck and I hope you have a great summer break!__
 
 
-
-
-
-
+**Sujai**  
+_Cyber Security Head_
