@@ -66,7 +66,7 @@ __P.S Visit [this](https://wiki.studsec.nl/books/ctf-guides/page/reverse-enginee
    - GDB baby series (1 - 4)
    - Need for Speed
   
-If you want to explore rev reng in depth, go to https://challenges.re/
+If you want to explore rev eng in depth, go to https://challenges.re/
 
 ---
 <img width="627" alt="{5A6F9163-EAAD-47F1-B18A-07DDCB0F6B34}" src="https://github.com/user-attachments/assets/921e9b50-5c3a-42ed-b035-6dd98e1f6988" />
