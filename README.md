@@ -66,7 +66,7 @@ __Now you have WSL successfully running on your computer!__
 - Download the __ISO file__ for Ubuntu: https://ubuntu.com/download
 - Open __VirtualBox__ and click `New` to create a virtual machine.
 - Name your VM, select `Linux` as type, and choose the appropriate version (e.g., Ubuntu)
-- __Allocate memory (RAM)__ - at least `2048 MB (1GB)` recommended.
+- __Allocate memory (RAM)__ - at least `2048 MB (2GB)` recommended.
 - Select the type of Hard disk. Using __VDI type__ is recommended. 
 - Create a virtual hard disk __(select "Dynamically allocated")__
 - Set the storage size (`minimum 10GB recommended`)
